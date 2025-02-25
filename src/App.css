@@ -1,0 +1,48 @@
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+   /*justify-content: center;
+  align-items: center;
+  text-align: center; */
+  padding-inline: 250px;
+  padding-block: 20px;
+}
+
+#home {
+  background-color: #1F1E24;
+}
+
+#about {
+  background-color: #1F1E24;
+}
+
+#resume {
+  background-color: #1F1E24;
+}
+
+#skills {
+  background-color: #1F1E24;
+}
+
+#projects {
+  background-color: #1F1E24;
+}
+
+#contact {
+  background-color: #1F1E24;
+}
+
+#contribution {
+  background-color: #1F1E24;
+}
